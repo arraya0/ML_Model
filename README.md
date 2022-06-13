@@ -31,12 +31,16 @@ HuggingFace 0.7.0
 
 #LAUNCH
 Inside resources folder, there are some files:
+
 Quran_English.csv
+
 Related.ipynb
 
 
 #SUPPORTED BY
+
 Tensorflow : 2.2.0
 
 #LAUNCH
+
 We use fix model : Related.ipynb
