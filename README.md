@@ -12,13 +12,21 @@ Therefore, this project is built to distinguish the arabic of ayah and get the t
 This project is built using Natural Language Processing semantic similarity to find the most accurate recommendations. Here are the library that used in this project.
 
 Python 3.7.0
+
 TensorFlow 2.2.0
+
 NumPy 1.21.6
+
 spaCy 2.2.2
+
 nltk 3.2.5
+
 TF-IDF
+
 scikit-learn 1.0.2
+
 SentenceTransformers 2.2.0
+
 HuggingFace 0.7.0
 
 #LAUNCH
