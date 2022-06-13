@@ -30,6 +30,7 @@ SentenceTransformers 2.2.0
 HuggingFace 0.7.0
 
 #LAUNCH
+
 Inside resources folder, there are some files:
 
 Quran_English.csv
